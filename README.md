@@ -7,8 +7,9 @@
 ## :computer: Computer Systems Analyst
 ### :books: Currently Learning:
 
-- **React**
+- **react.js**
+- **next.js**
 - **TypeScript**
 - **JavaScript**
 - **PHP**
-- **Docker 🐳**
+- **Wordpress**
