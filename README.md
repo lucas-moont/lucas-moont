@@ -11,5 +11,3 @@
 - **next.js**
 - **TypeScript**
 - **JavaScript**
-- **PHP**
-- **Wordpress**
