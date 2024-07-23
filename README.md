@@ -4,11 +4,11 @@
 
 <div style="margin-bottom:100px"></div>
 
-<div># 📝About Me</div>
+# <div> 📝About Me</div>
 
 <div align="center"><h3>I have been a web developer for 4 years, specializing in the JavaScript ecosystem, as well as WordPress Development.</h3></div>
 
-<div># <img align="center" src="images/icons8-code-100.png" width ="35"/> Technologies That I Know</div>
+# <div> <img align="center" src="images/icons8-code-100.png" width ="35"/> Technologies That I Know</div>
 
 <table align="center"><tr><td valign="top" width="33%">
 
