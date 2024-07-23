@@ -39,8 +39,6 @@
 
 # <img align="center" src="images/icons8-pie-chart-50.png" width ="35"/> 📊 GitHub Stats
 
-<p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-moont&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucas-moont&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucas-moont&theme=dark)
-</p>
