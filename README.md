@@ -4,7 +4,7 @@
 
 <div style="margin-bottom:100px"></div>
 
-# <div> 📝About Me</div>
+# <div> <img align="center" src="images/icons8-computer-50.png" width ="35"/> About Me</div>
 
 <div align="center"><h3>I have been a web developer for 4 years, specializing in the JavaScript ecosystem, as well as WordPress Development.</h3></div>
 
@@ -37,7 +37,7 @@
 </td></tr></table>
 <br/><br/>
 
-# 📊 GitHub Stats
+# <img align="center" src="images/icons8-pie-chart-50.png" width ="35"/> 📊 GitHub Stats
 
 <p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-moont&theme=dark)
